@@ -14,7 +14,7 @@ The project aims to strengthen problem-solving skills and understanding of algor
 
 ## 🎯 Objectives
 - To implement fundamental and advanced data structures.  
-- To analyze the time and space complexity of algorithms.  
+- To analyze the time and space complexity of algorithm.  
 - To solve real-world problems using algorithmic approaches.  
 - To demonstrate efficient coding practices for scalability and performance.  
 

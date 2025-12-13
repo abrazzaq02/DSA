@@ -1,6 +1,6 @@
 # ⚙️ Data Structures and Algorithms Project  
 *DSA Project (Data Structures and Algorithms)*  
-**Department of Computer Science and Engineering**
+**BS Artificial Intelligence**
 
 ---
 

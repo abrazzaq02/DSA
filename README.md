@@ -1,6 +1,4 @@
-# ⚙️ Data Structures and Algorithms Project  
-*DSA Project (Data Structures and Algorithms)*  
-**BS Artificial Intelligence**
+
 
 ---
 
